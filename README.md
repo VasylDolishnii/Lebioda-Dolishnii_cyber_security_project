@@ -1,8 +1,13 @@
+<div align="center">
+  <img src="https://github.com/VasylDolishnii/Lebioda-Dolishnii_cyber_security_project/blob/main/Phase%201/Phase%201%20%E2%80%93%20Initial%20VPS%20Setup.md" alt="phase_1"/>
+</div>
+
 > **NIS2 Security Operations Platform**
 
 > **Project Overview**
 
 > **This project aims to improve cybersecurity monitoring and support NIS2 readiness through the implementation of:**
+>
 > - **Wazuh SIEM/XDR**
 > - **OpenVAS Vulnerability Scanner**
 > - **VPN-secured management network**
@@ -20,6 +25,7 @@
 > **The Wazuh Manager is installed on a Debian 12 VPS.**
 
 > **Security measures implemented:**
+>
 > - **SSH key authentication only**
 > - **Password authentication disabled**
 > - **Root login disabled**
@@ -30,16 +36,18 @@
 > **Monitoring & Detection**
 
 > **The platform provides:**
+>
 > - **Centralized log collection**
 > - **Threat detection**
 > - **Security event monitoring**
 > - **Audit logging**
 > - **Security dashboards**
-> **Wazuh analyzes collected events and generates alerts when suspicious activity is detected.**
+>   **Wazuh analyzes collected events and generates alerts when suspicious activity is detected.**
 
 > **Vulnerability Management**
 
 > **OpenVAS is integrated to:**
+>
 > - **Scan systems for vulnerabilities**
 > - **Detect known CVEs**
 > - **Identify outdated software**
@@ -50,10 +58,11 @@
 > **A custom alerting bot is being developed to automatically send notifications when High or Critical alerts are generated.**
 
 > **Notification channels:**
+>
 > - **Email**
 > - **Telegram**
-> **This helps administrators respond quickly to security incidents.**
-> **Technologies**
+>   **This helps administrators respond quickly to security incidents.**
+>   **Technologies**
 > - **Debian 12**
 > - **Wazuh SIEM/XDR**
 > - **OpenVAS**
@@ -65,34 +74,42 @@
 
 > **Project Roadmap**
 
-> **Phase 1**
+### [Phase 1](#phase_1)
+
 > - **VPS deployment**
 > - **Debian 12 installation**
 > - **SSH hardening**
 > - **Fail2Ban configuration**
 
 > **Phase 2**
+>
 > - **Wazuh Manager deployment**
 > - **Dashboard configuration**
 
 > **Phase 3**
+>
 > - **Wazuh Agent deployment**
 
 > **Phase 4**
+>
 > - **OpenVAS integration**
 
 > **Phase 5**
+>
 > - **Email & Telegram alerting bot**
 
 > **Phase 6**
+>
 > - **MFA implementation**
 
 > **Phase 7**
+>
 > - **Compliance dashboards and reporting**
 
 > **Documentation**
 
 > **Detailed deployment guides are available in the /docs directory:**
+>
 > - **Wazuh Manager Installation**
 > - **Wazuh Agent Deployment**
 > - **OpenVAS Configuration**
