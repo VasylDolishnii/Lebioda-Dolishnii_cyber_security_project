@@ -1,6 +1,5 @@
-NIS2 Security Operations Platform
-Project Overview
-
+> **NIS2 Security Operations Platform**
+> **Project Overview**
 
 > **This project aims to improve cybersecurity monitoring and support NIS2 readiness through the implementation of:**
 > - **Wazuh SIEM/XDR**
