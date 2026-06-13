@@ -70,7 +70,7 @@
 
 > **Project Roadmap**
 
-### [Phase 1](./Phase 1/Phase 1 – Initial VPS Setup.md)
+### [Phase 1](./Phase%201/Phase%201%20–%20Initial%20VPS%20Setup.md)
 
 > - **VPS deployment**
 > - **Debian 12 installation**
