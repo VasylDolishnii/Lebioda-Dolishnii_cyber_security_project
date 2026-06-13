@@ -47,7 +47,7 @@
 
 > **Automated Alerting**
 
-> A custom alerting bot is being developed to automatically send notifications when High or Critical alerts are generated.
+> **A custom alerting bot is being developed to automatically send notifications when High or Critical alerts are generated.**
 
 > **Notification channels:**
 > - **Email**
@@ -62,26 +62,36 @@
 > - **WireGuard / OpenVPN**
 > - **Python**
 > - **Telegram Bot API**
+
 > **Project Roadmap**
+
 > **Phase 1**
 > - **VPS deployment**
 > - **Debian 12 installation**
 > - **SSH hardening**
 > - **Fail2Ban configuration**
+
 > **Phase 2**
 > - **Wazuh Manager deployment**
 > - **Dashboard configuration**
+
 > **Phase 3**
 > - **Wazuh Agent deployment**
+
 > **Phase 4**
 > - **OpenVAS integration**
+
 > **Phase 5**
 > - **Email & Telegram alerting bot**
+
 > **Phase 6**
 > - **MFA implementation**
+
 > **Phase 7**
 > - **Compliance dashboards and reporting**
+
 > **Documentation**
+
 > **Detailed deployment guides are available in the /docs directory:**
 > - **Wazuh Manager Installation**
 > - **Wazuh Agent Deployment**
