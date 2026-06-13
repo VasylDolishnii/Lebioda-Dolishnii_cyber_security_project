@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://github.com/VasylDolishnii/Lebioda-Dolishnii_cyber_security_project/blob/main/Phase%201/Phase%201%20%E2%80%93%20Initial%20VPS%20Setup.md" alt="phase_1"/>
-</div>
-
 > **NIS2 Security Operations Platform**
 
 > **Project Overview**
@@ -74,7 +70,7 @@
 
 > **Project Roadmap**
 
-### [Phase 1](#phase_1)
+### [Phase 1](./Phase 1/Phase 1 – Initial VPS Setup.md)
 
 > - **VPS deployment**
 > - **Debian 12 installation**
