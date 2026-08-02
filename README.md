@@ -82,7 +82,7 @@
 > - **Wazuh Manager deployment**
 > - **Dashboard configuration**
 
-### [Phase 3 – Local Agent Setup and Configuration](./Phase%203/Phase%203%20-%20Local%20Agent%20Setup%20and%20Configuration.md)
+### [Phase 3 – Local Agent Setup and Configuration](<Phase 3/Phase 3 – Local Agent Setup and Configuration.md>)
 >
 > - **Wazuh Agent deployment**
 
