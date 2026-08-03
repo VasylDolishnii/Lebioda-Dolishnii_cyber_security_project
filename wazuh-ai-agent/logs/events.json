@@ -1,0 +1,12 @@
+[
+    {
+        "level": "HIGH",
+        "type": "AGENT_OFFLINE",
+        "message": "Agent DOWN: Ubuntu_Vasyl (002)"
+    },
+    {
+        "level": "INFO",
+        "type": "WINDOWS_HOST",
+        "message": "Windows host detected: Zigman-PC1"
+    }
+]

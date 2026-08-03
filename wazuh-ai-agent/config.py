@@ -11,3 +11,7 @@ TELEGRAM_BOT_TOKEN = os.getenv("TELEGRAM_BOT_TOKEN")
 TELEGRAM_CHAT_ID = os.getenv("TELEGRAM_CHAT_ID")
 
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
+
+# --- DODANE DLA ALERTÓW TELEGRAM (BEZ AI) ---
+WAZUH_ALERTS_FILE = "/var/ossec/logs/alerts/alerts.json"
+MIN_ALERT_LEVEL = 10
